@@ -56,7 +56,7 @@ body {
 
   margin-bottom: 0.5em;
   /* Add a top margin to avoid content overlay */
-  border: 3px solid blue;
+  /* border: 3px solid blue; */
 }
 
 @media screen and (min-width: 750px) {
@@ -78,7 +78,7 @@ body {
   /* max-width: 1088px; */
   max-width: 1500px;
   margin: 0 auto;
-  border: 3px solid red;
+  /* border: 3px solid red; */
   padding: 1em;
 }
 
@@ -136,7 +136,7 @@ h4{
   justify-content: center;
   flex-wrap: wrap;
 
-  border:3px solid magenta;
+  /* border:3px solid magenta; */
 }
 
 .microsoft img{
