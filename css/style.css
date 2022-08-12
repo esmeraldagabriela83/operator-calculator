@@ -129,6 +129,9 @@ h4{
   color:#c8a2b1;
   margin:0.5em 0 ;
 }
+h4 , p{
+  text-align: center;
+}
 
 .microsoft{
   display: flex;
